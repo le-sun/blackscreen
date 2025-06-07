@@ -1,6 +1,6 @@
-# Black Screen Application
+# Black Screen
 
-A lightweight Windows system tray application that provides an instant full-screen black overlay for OLED monitor, privacy, or screen breaks.
+A lightweight Windows system tray application that provides an instant full-screen black overlay for an OLED monitor, privacy, or screen breaks.
 
 ## Features
 
